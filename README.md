@@ -1,5 +1,6 @@
 # Automatic Car Wash
 This repo contains the source code used to make an automatic car wash using Arduino Mega atmega2560.
+
 Required Libs:
 ------
 - [LiquidCrystal_I2C(Direct Link)](http://www.lab-android.com/arduino/library/NewliquidCrystal.zip)
